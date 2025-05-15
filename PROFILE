@@ -1,23 +1,23 @@
  #  I'm Harrison Ritei Rotiken
 
-🎓 Statistician | 📊 Data Scientist | 📈 Monitoring & Evaluation (M&E) Specialist  
-📍 Nairobi, Kenya | 🌍 Passionate about Data for Development
+Statistician | 📊 Data Scientist | 📈 Monitoring & Evaluation (M&E) Specialist  
+ Nairobi, Kenya | 🌍 Passionate about Data for Development
 
 ---
 
-## 💼 About Me
+##  About Me
 
 I'm a data professional with over 3 years of experience applying statistics and data science in development, health, and agricultural research. I've worked with leading institutions including:
 
-- 🧠 **African Population & Health Research Center (APHRC)** – Health & policy research
-- 🌍 **IPSOS Africa** – Multinational research & M&E projects
-- 🌾 **Kenya Agricultural & Livestock Research Organization (KALRO)** – Agriculture & climate data
+- **African Population & Health Research Center (APHRC)** – Health & policy research
+- **IPSOS Africa** – Multinational research & M&E projects
+- **Kenya Agricultural & Livestock Research Organization (KALRO)** – Agriculture & climate data
 
 I specialize in designing and managing large-scale data systems, analyzing quantitative & qualitative datasets, and generating evidence that drives real-world impact.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Programming & Analysis:**  
 `Python`, `R`, `SQL`, `SPSS`, `STATA`, `SAS`
@@ -54,7 +54,7 @@ I specialize in designing and managing large-scale data systems, analyzing quant
 
 ## 📫 Let's Connect
 
-- **Email:** rotikenharrison@gmail.com  
+- **Email:** riteiharrison@gmail.com  
 - **GitHub:** [github.com/harrisonrotiken](https://github.com/harrisonrotiken)
 
 ---
