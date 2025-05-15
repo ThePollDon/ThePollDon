@@ -1,0 +1,64 @@
+ #  I'm Harrison Ritei Rotiken
+
+🎓 Statistician | 📊 Data Scientist | 📈 Monitoring & Evaluation (M&E) Specialist  
+📍 Nairobi, Kenya | 🌍 Passionate about Data for Development
+
+---
+
+## 💼 About Me
+
+I'm a data professional with over 3 years of experience applying statistics and data science in development, health, and agricultural research. I've worked with leading institutions including:
+
+- 🧠 **African Population & Health Research Center (APHRC)** – Health & policy research
+- 🌍 **IPSOS Africa** – Multinational research & M&E projects
+- 🌾 **Kenya Agricultural & Livestock Research Organization (KALRO)** – Agriculture & climate data
+
+I specialize in designing and managing large-scale data systems, analyzing quantitative & qualitative datasets, and generating evidence that drives real-world impact.
+
+---
+
+## 🧰 Tech Stack
+
+**Programming & Analysis:**  
+`Python`, `R`, `SQL`, `SPSS`, `STATA`, `SAS`
+
+**Data Collection & Management:**  
+`ODK`, `KoBoToolbox`, `Survey CTO`, `Google Forms`, `Excel`
+
+**Visualization & Reporting:**  
+`Power BI`, `Tableau`, `Streamlit`, `MS Excel`, `MS PowerPoint`
+
+**Tools & Platforms:**  
+`Git`, `Jupyter`, `Docker`, `APIs`, `VS Code`, `GitHub Actions`
+
+---
+
+## 📚 Certifications
+
+- IBM Data Science Professional Certificate – *Coursera*
+- Google Data Analytics Certificate – *Coursera*
+- Introduction to Python for Data Science – *DataCamp*
+- Monitoring & Evaluation Fundamentals – 
+- Excel Skills for Data Analytics – *LinkedIn Learning*
+
+---
+
+## 📂 Featured Repositories (Coming Soon)
+
+- `agri-data-dashboard` – Power BI & Python dashboard for Kenyan agri-climate insights  
+- `m-e-automation-tools` – Python scripts for automated M&E data processing  
+- `health-survey-analysis` – End-to-end health data analysis using R and STATA  
+- `sql-snippets-me-eval` – Common SQL queries for M&E indicators
+
+---
+
+## 📫 Let's Connect
+
+- **Email:** rotikenharrison@gmail.com  
+- **GitHub:** [github.com/harrisonrotiken](https://github.com/harrisonrotiken)
+
+---
+
+> “Data without context is just numbers. I turn those numbers into insight.”
+
+
